@@ -1,6 +1,12 @@
 # GSE-Tracking
 Online complementary materials of the paper titled 
+
 **ROPHS: Determine Real-Time Status of a Multi-Carriage Logistics Train at Airport**
+
+By Shixiong Wang, Chongshou Li, and Andrew Lim
+
+From Department of Industrial Systems Engineering and Management, National University of Singapore, Singapore117576. 
+
 
 ***MATLAB Version: 2016A or later***
 
