@@ -1,7 +1,9 @@
 # GSE-Tracking
-Online complementary materials to "ROPHS: Determine Real-Time Status of a Multi-Carriage Logistics Train at Airport"
+Online complementary materials to the paper titled "ROPHS: Determine Real-Time Status of a Multi-Carriage Logistics Train at Airport"
 
-[1] The folder "References" contains reference literature for understanding this project
+[1] The folder "References" contains reference literature (where mathematical details are given) for understanding the source code
+
+
 
 [2] The file "Trajectory.m" contains source code to parse GPGGA sentence obtained from RTK positioning board, which is used to plot Figure 13 in the experiemnt section in the paper
 
