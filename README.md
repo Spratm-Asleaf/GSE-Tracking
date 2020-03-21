@@ -26,7 +26,7 @@ Project Website: <https://alim.algorithmexchange.com/caas/>
 
 [4] The folder "Code - Tracking Algorithm" contains the code to generate Figure 3 in the paper
 - The file "RawData.mat" are collected data (a part of trajectory of APM depolyed on the leading vehicle) when doing filed test at National University of Singapore on Feb 14, 2020. It includes three variable:
-  + "X_Real": Real status of the leading vehicle, i.e., true value of "X^t" in Eq. (2) and (3). This variable is 4-dimensional. The first entry is the true position in x-axis; the second is the true velocity in x-axis; The third is the true position in y-axis; the fourth is the true velocity in y-axis; 
+  + "X_Real": Real status of the leading vehicle, i.e., true value of "X^t" in Eq. (2) and (3). This variable is 4-dimensional. The first entry is the true position in x-axis; the second is the true velocity in x-axis; the third is the true position in y-axis; the fourth is the true velocity in y-axis; 
   + "Y_Mear": Noised measurements of the positions of the leading vehicle, i.e., "Y^t" in Eq. (2) and (3). This variable is 2-dimensional. The first entry is the measured position in x-axis, while the second is the measured position in y-axis;
   + "Ts"    : Sampling period in seconds. In our experiment, we use Ts = 0.1s, meeaning the update frequency of GPGGA sentence is 10 per second (i.e., we obtain 10 observations per second of the real-time position of the APM).
 - The file "main.m" is the entrance of the code. It calls other ".m" files. In this file, the geometry based positioing algorithm (Eq. (1)) and the IMM-KF tracking algorithm (Eqs. (2) and (3)) are implemented. The mathmatical details of IMM-KF could be found in "References/IMM.pdf" or in the paper;
