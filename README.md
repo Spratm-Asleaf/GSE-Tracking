@@ -1,7 +1,8 @@
 # GSE-Tracking
-Online complementary materials of the paper titled "ROPHS: Determine Real-Time Status of a Multi-Carriage Logistics Train at Airport"
+Online complementary materials of the paper titled 
+**ROPHS: Determine Real-Time Status of a Multi-Carriage Logistics Train at Airport**
 
-**MATLAB Version: 2016A or later**
+***MATLAB Version: 2016A or later***
 
 [1] The folder "References" contains reference literature (where mathematical details are given) for understanding the source code
 
