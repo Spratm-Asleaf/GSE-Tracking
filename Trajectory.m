@@ -1,4 +1,4 @@
-% Source: @Github:Spratm-Asleaf/GSE-Tracking
+% Source: https://github.com/Spratm-Asleaf/GSE-Tracking
 
 %{ 
  Read me:
