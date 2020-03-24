@@ -27,7 +27,7 @@ Project Website: <https://alim.algorithmexchange.com/caas/>
 * [3] The folder "Code - Uncertainty Region" contains the code to generate Figure 14 in the paper
   - The file "main.m" is the entrance of the code. It calls "R.m" and "drawTrain.m". This file simulate the uncertainty region of the corner point on the last trailing vehicle;
   - The file "drawTrain.m" is used to plot the diagram of the train;
-  - The file "R.m" defeins a temporary function (i.e., the "**Q**" Eq. (6)).
+  - The file "R.m" defeins a temporary function (i.e., the "**Q**" in Eq. (6)).
 
 * [4] The folder "Code - Tracking Algorithm" contains the code to generate Figure 15 in the paper
   - The file "RawData.mat" are collected data (a part of trajectory of APM depolyed on the leading vehicle) when doing filed test nearby National University of Singapore on Feb 14, 2020. It includes three variable:
