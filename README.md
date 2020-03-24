@@ -1,3 +1,6 @@
+> @Author: WANG Shixiong (Email: <s.wang@u.nus.edu>)
+> @Date: March 22, 2020
+
 # GSE-Tracking
 
 Online complementary materials of the paper titled 
