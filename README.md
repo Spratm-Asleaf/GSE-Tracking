@@ -1,4 +1,4 @@
-> @Author: WANG Shixiong (Email: <s.wang@u.nus.edu>)
+> @Author: WANG Shixiong (Email: <s.wang@u.nus.edu>; <wsx.gugo@gmail.com>)
 
 > @Affiliate: Department of Industrial SystemsEngineering and Management, National University of Singapore
 
