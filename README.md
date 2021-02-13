@@ -1,18 +1,20 @@
 > @Author: WANG Shixiong (Email: <s.wang@u.nus.edu>; <wsx.gugo@gmail.com>)
 
-> @Affiliate: Department of Industrial SystemsEngineering and Management, National University of Singapore
+> @Affiliate: Department of Industrial Systems Engineering and Management, National University of Singapore
 
 > @Date: March 22, 2020
 
 # GSE-Tracking
 
-Online complementary materials of the paper titled 
+Online supplementary materials of the paper titled 
 
 **ROPHS: Determine Real-Time Status of a Multi-Carriage Logistics Train at Airport**
 
+Published in the IEEE Transactions on Intelligent Transportation Systems [10.1109/TITS.2021.3055838](https://ieeexplore.ieee.org/document/9352528)
+
 By Shixiong Wang, Chongshou Li, and Andrew Lim
 
-From Department of Industrial Systems Engineering and Management, National University of Singapore, Singapore117576. 
+From the Department of Industrial Systems Engineering and Management, National University of Singapore, Singapore117576. 
 
 Project Website: <https://alim.algorithmexchange.com/caas/>.
 
