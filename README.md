@@ -10,7 +10,7 @@ Online supplementary materials of the paper titled
 
 **ROPHS: Determine Real-Time Status of a Multi-Carriage Logistics Train at Airport**
 
-Published in the IEEE Transactions on Intelligent Transportation Systems (DOI: [10.1109/TITS.2021.3055838](https://ieeexplore.ieee.org/document/9352528))
+Published in the _IEEE Transactions on Intelligent Transportation Systems_ (DOI: [10.1109/TITS.2021.3055838](https://ieeexplore.ieee.org/document/9352528))
 
 By Shixiong Wang, Chongshou Li, and Andrew Lim
 
